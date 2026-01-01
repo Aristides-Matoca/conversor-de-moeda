@@ -17,3 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 Conversor de moeda - Criado com o intuito de estudo e aprendizagem
 Projecto desenvolvido usando o Flutter. 
+
+# Flutter Version
+- flutter --version
+Flutter 3.13.5 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 12fccda598 (2 years, 3 months ago) • 2023-09-19 13:56:11 -0700
+Engine • revision bd986c5ed2
+Tools • Dart 3.1.2 • DevTools 2.25.0
